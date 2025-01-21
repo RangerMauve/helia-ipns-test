@@ -1,0 +1,21 @@
+{
+  "name": "helia-ipns-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Testing Helia's IPNS capabilities with the goal of replacing Kubo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@helia/ipns": "^8.0.2",
+    "@helia/unixfs": "^4.0.2",
+    "helia": "^5.2.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
