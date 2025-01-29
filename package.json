@@ -11,7 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@helia/ipns": "^8.0.2",
+    "@chainsafe/libp2p-gossipsub": "^14.1.0",
+    "@helia/ipns": "^8.1.0",
     "@helia/unixfs": "^4.0.2",
     "helia": "^5.2.0"
   },
